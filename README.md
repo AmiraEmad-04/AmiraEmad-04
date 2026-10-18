@@ -5,9 +5,9 @@
 
 
 <p align="center">
-  <img src="profile.png" width="150" alt="Amira Emad" />
+  <img src="profile.png.jpeg" width="150" alt="Amira Emad" />
   &nbsp;&nbsp;&nbsp;
-  <img src="fcai-logo.png" width="150" alt="Cairo University FCAI" />
+  <img src="fcai-logo.png.jpeg" width="150" alt="Cairo University FCAI" />
 </p>
 
 
