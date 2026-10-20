@@ -142,9 +142,16 @@ I enjoy the full lifecycle: **designing**, **building**, **testing**, and **ship
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AmiraEmad-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiraEmad-04&layout=compact&theme=tokyonight&hide_border=true" />
+---
+
+## 🧪 Testing & QA at a Glance
+
+| Area | What I did |
+|---|---|
+| **API testing** | Postman collection for the Fake Store API: 9 endpoint groups with valid and negative scenarios, and 6 API behaviours documented as bugs |
+| **UI automation** | Robot Framework + SeleniumLibrary suites on AliExpress: search, filtering, add to cart, language and currency settings, login flow and image zoom |
+| **Unit testing** | JUnit and jMock tests with a written bug report (discount logic and the JFreeChart `Year` class) |
+| **Certification** | ISTQB Certified Tester, Foundation Level (2025) |
 </p>
 
 ---
